@@ -1,0 +1,270 @@
+.wrapper{
+    position: absolute;
+width: 100%;
+height: 2870px;
+left: 0%;
+top: 0%;
+
+background: #FFFFFF;
+}
+
+.cima{
+    position: absolute;
+width: 100%;
+height: 144px;
+left: 0%;
+top: 66px;
+
+background: #D1C23A;
+}
+
+.meio{
+    position: absolute;
+width: 100%;
+height: 203px;
+left: 0%;
+top: 1473px;
+
+background: #C6B733;
+}
+
+.rodape{
+    position: absolute;
+width: 100%;
+height: 266px;
+left: 0%;
+top: 2604px;
+
+background: #C6B733;
+}
+
+.untitled img{
+    position: absolute;
+width: 226px;
+height: 66px;
+left: 0px;
+top: 0px;
+}
+
+.ods{
+    position: absolute;
+width: 398px;
+height: 45px;
+left: 233px;
+top: 21px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+
+color: #000000;
+}
+
+.file img{
+    position: absolute;
+    width: 149px;
+    height: 143px;
+    left: 9px;
+    top: 1px;
+}
+
+.lin{
+    position: absolute;
+width: 100%;
+height: 142.09px;
+left: 0.29px;
+top: 1px;
+
+border: 5px solid #938829;
+transform: rotate(0.1deg);
+}
+
+.onupreto img{
+    position: absolute;
+width: 98px;
+height: 77px;
+left: 504px;
+top: 121px;
+}
+
+.ods2{
+    position: absolute;
+width: 145px;
+height: 46px;
+left: 237px;
+top: 32px;
+
+font-family: 'Inika';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+
+color: #000000;
+}
+
+.oqods{
+    position: absolute;
+width: 302px;
+height: 48px;
+left: 41px;
+top: 253px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.text1{
+    position: absolute;
+width: 572px;
+height: 204px;
+left: 30px;
+top: 311px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.odss img{
+    position: absolute;
+width: 587px;
+height: 237px;
+left: 41px;
+top: 525px;
+}
+
+.text2{
+    position: absolute;
+width: 583px;
+height: 350px;
+left: 30px;
+top: 837px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+#IframePosicao { 
+    position: absolute; 
+  overflow:auto; 
+  top: 1200px
+  ; left: 67%; 
+  z-index: 5; 
+  margin-top: -155px; 
+  margin-left: -200px; 
+  } 
+
+  .efas{
+    position: absolute;
+width: 367px;
+height: 116px;
+left: 34px;
+top: 44px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #FFFFFF;
+  }
+
+.prato img{
+    position: absolute;
+width: 169px;
+height: 136px;
+left: 429px;
+top: 45px;
+
+}
+
+.odst2{
+    position: absolute;
+width: 128px;
+height: 38px;
+left: 62px;
+top: 1699px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.baixoods{
+    position: absolute;
+width: 517px;
+height: 93px;
+left: 54px;
+top: 1745px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+
+.text3{
+    position: absolute;
+width: 578px;
+height: 249px;
+left: 34px;
+top: 1860px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.text4{
+    position: absolute;
+width: 578px;
+height: 359px;
+left: 34px;
+top: 2119px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.odds img{
+    position: absolute;
+width: 361px;
+height: 48px;
+left: 128px;
+top: 2510px;
+}
